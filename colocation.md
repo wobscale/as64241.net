@@ -5,7 +5,8 @@
 
 "Wobscale Technologies, in addition to running AS64241, also provides Server Colocation in Seattle, WA. Let me forward you to our colocation specialist" he says as he attaches you to a letter and sends you through the æther to Iliana's office.
 
-She sits on a short stack of boxes in front of a blue, pink, and white striped flag. Her wood-enclosed keyboard lightly pulses.
+She sits on a stack of gutted R410s in front of a blue, pink, and white striped
+flag. Her wood-enclosed keyboard lightly pulses.
 
 "Colocation? Yeah, we've got a rack in the [Westin Building](https://www.westinbldg.com/). If you want to colocate a server with us, you should get in touch."
 

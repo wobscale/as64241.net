@@ -9,7 +9,7 @@ You read the large neon sign hanging over the door of the Seattle-based
 
 The neon 'N's light flickers wearily and gives up.
 
-You knock, and a young lad opens the door and flashes a grin.
+You knock, and a ~~young lad~~ "security" "professional" opens the door and flashes a grin.
 
 "Wobscale Technologies, I'm Jason, how may I take your order?"
 
