@@ -17,6 +17,8 @@ You knock, and a ~~young lad~~ "security" "professional" opens the door and flas
 
 [Choose][wobscale-1] -- What is Wobscale Technologies?
 
+[Choose][zork] -- North, east, open window, enter, up.
+
 [Choose][end] -- [Close the door and leave]
 
 [Email](mailto:admin@wobscale.website) -- I don't have time for this, give me a *real* human!
@@ -27,3 +29,4 @@ You knock, and a ~~young lad~~ "security" "professional" opens the door and flas
 [wobscale-1]: wobscale-1.html
 [peering]: peering.html
 [end]: end.html
+[zork]: zork.html
