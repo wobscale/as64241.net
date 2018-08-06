@@ -10,7 +10,7 @@ Internet Exchange."
 Jason turns down a hallway, leading you down a 1GiB wide tube, past flashing
 link lights with labels like [doof &amp; knuckles](https://doof.net/).
 
-"I see you've noticed our peering sessions~~(OwO)~~. This is the heart of AS64241...
+"I see you've noticed our peering sessions. This is the heart of AS64241...
 After all, an autonomous system can't very well exist in a vacuum. We have an
 [open peering policy][peering] at SIX so we can create as large of a series of
 tubes as possible."

@@ -3,7 +3,7 @@
 ╹ ╹┗━┛╹ ╹┗━┛  ╹┗━╸  ╹╺┻╸
 --- Colo-ing servers ---
 
-"Wobscale Technologies, in addition to running AS64241, also provides Server Colocation in Seattle, WA. Let me forward you to our colocation specialist" he says as he attaches you to a letter and sends you through the æther to Iliana's office.
+"Wobscale Technologies, in addition to running AS64241, also provides Server Colocation in Seattle, WA. Let me forward you to our colocation specialist" he says as he attaches you to a letter and sends you through the æther to iliana's office.
 
 She sits on a stack of gutted R410s in front of a blue, pink, and white striped
 flag. Her wood-enclosed keyboard lightly pulses.
